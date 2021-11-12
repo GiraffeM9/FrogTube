@@ -1,7 +1,7 @@
-import googleapiclient
+import googleapiclient.discovery
 import random
 
-api_service_name, api_version, DEVELOPER_KEY = "youtube", "v3", "AIzaSyD-698vmi9ufJjfOS0xp3Ew-Vme7sDTn_s"
+api_service_name, api_version, DEVELOPER_KEY = "youtube", "v3", "insert developer key"
 
 def generate_video():
     videos = []
