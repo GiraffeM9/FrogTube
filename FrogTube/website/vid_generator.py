@@ -3,7 +3,7 @@ import random
 from os import path
 import json
 
-api_service_name, api_version, DEVELOPER_KEY = "youtube", "v3", "AIzaSyD-698vmi9ufJjfOS0xp3Ew-Vme7sDTn_s"
+api_service_name, api_version, DEVELOPER_KEY = "youtube", "v3", "insert_api_key"
 file_path = "website/templates/static/videos.json"
 
 def api_response():
