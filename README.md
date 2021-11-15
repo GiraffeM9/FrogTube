@@ -3,7 +3,7 @@ Website that generates a frog video from YouTube every time the page loads, work
 
 11/15/2021 - Mostly finished frog video generator, added placeholder for more pages
 
-__How to get API key:
+# How to get API key:
 
 Log in to Google Developers Console.
 Create a new project.
